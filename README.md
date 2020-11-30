@@ -20,4 +20,4 @@ instead.
 
 Mirrored image of the original PCB:
 
-<img src="https://github.com/RivenHexagon/TAC_RI277/blob/main/RI277D-flip.jpg">
+<img src="https://github.com/RivenHexagon/TAC_RI277/blob/main/RI277C-flip.jpg">
