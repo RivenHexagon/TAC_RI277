@@ -1,0 +1,3 @@
+[submodule "local-libs"]
+	path = local-libs
+	url = https://github.com/RivenHexagon/TAC_KiCad_lib
